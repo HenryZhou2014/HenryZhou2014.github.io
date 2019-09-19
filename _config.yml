@@ -1,23 +1,23 @@
 # Site settings
-title: Wblearn Blog
-SEOTitle: Wblearn的博客 | Wblearn Blog
+title: HelloWorld
+SEOTitle: Henry的博客 | HelloWorld
 header-img: img/home-bg-art.jpg
-email: 1275660493@qq.com
-description: "@wblearn,不要让任何事情成为你不去学习的理由！"
+email: 514058070@qq.com
+description: "记录，学习，生活！"
 keyword: "wblearn, @wblearn, wblearn的博客,wblearn Blog, 博客, 个人网站, 互联网"
-url: "http://wblearn.github.io/"              # your host, for absolute URL
+url: "https://henryzhou2014.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     wudalanggd
-csdn_username:     wudalang_gd
-github_username:    wblearn
-#twitter_username:  wblearn
-jianshu_username:  48599dc7ef1b
-# linkedin_username:  firstname-lastname-idxxxx
+weibo_username:     HenryZhou2014
+csdn_username:     HenryZhou2014
+github_username:    HenryZhou2014
+#twitter_username:  HenryZhou2014
+jianshu_username:  HenryZhou2014
+# linkedin_username:  HenryZhou2014
 
 
 
@@ -72,7 +72,7 @@ ga_domain: wblearn.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不要让任何事情成为你不去学习的理由！"
+sidebar-about-description: "学习，生活，死亡！"
 sidebar-avatar: /img/avatar-wb.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
